@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/tonic/OneDrive/Documents/adatszerk/lab1/egyDim.cpp
+egyDim.h
+C:/Users/tonic/OneDrive/Documents/adatszerk/lab1/egyDim.h
+
+C:/Users/tonic/OneDrive/Documents/adatszerk/lab1/egyDim.h
+stdlib.h
+-
+stdio.h
+-
+iostream
+-
+fstream
+-
+
