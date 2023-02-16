@@ -1,0 +1,9 @@
+"C:\Program Files\JetBrains\CLion 2021.2.2\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - MinGW Makefiles" "C:\Users\tonic\OneDrive\Documents\Adatszerk. és alg. II"
+CMake Error at CMakeLists.txt:6 (add_executable):
+  The target name "Adatszerk__Ã©s_alg__II" is reserved or not valid for
+  certain CMake features, such as generator expressions, and may result in
+  undefined behavior.
+
+
+-- Configuring incomplete, errors occurred!
+See also "C:/Users/tonic/OneDrive/Documents/Adatszerk. Ã©s alg. II/cmake-build-debug/CMakeFiles/CMakeOutput.log".
