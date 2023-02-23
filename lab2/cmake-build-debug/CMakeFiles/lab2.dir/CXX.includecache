@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/tonic/OneDrive/Documents/adatszerk/lab2/headers/Ellista.h
+iostream
+-
+fstream
+-
+constants.h
+C:/Users/tonic/OneDrive/Documents/adatszerk/lab2/headers/constants.h
+vector
+-
+string
+-
+
+C:/Users/tonic/OneDrive/Documents/adatszerk/lab2/headers/constants.h
+
+C:/Users/tonic/OneDrive/Documents/adatszerk/lab2/main.cpp
+iostream
+-
+vector
+-
+C:/Users/tonic/OneDrive/Documents/adatszerk/lab2/headers/Ellista.h
+-
+
+C:/Users/tonic/OneDrive/Documents/adatszerk/lab2/src/Ellista.cpp
+../headers/Ellista.h
+C:/Users/tonic/OneDrive/Documents/adatszerk/lab2/headers/Ellista.h
+
