@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/tonic/OneDrive/Documents/adatszerk/lab3/cmake-build-debug/LknoLkkt.cpp
+LknoLkkt.h
+C:/Users/tonic/OneDrive/Documents/adatszerk/lab3/cmake-build-debug/LknoLkkt.h
+
+C:/Users/tonic/OneDrive/Documents/adatszerk/lab3/cmake-build-debug/LknoLkkt.h
+iostream
+-
+fstream
+-
+iomanip
+-
+
+C:/Users/tonic/OneDrive/Documents/adatszerk/lab3/main.cpp
+iostream
+-
+cmake-build-debug/LknoLkkt.h
+C:/Users/tonic/OneDrive/Documents/adatszerk/lab3/cmake-build-debug/LknoLkkt.h
+
