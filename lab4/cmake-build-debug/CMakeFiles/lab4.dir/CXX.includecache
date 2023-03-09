@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/tonic/OneDrive/Documents/adatszerk/lab4/cmake-build-debug/DivideatImperia.h
+
+C:/Users/tonic/OneDrive/Documents/adatszerk/lab4/main.cpp
+iostream
+-
+C:/Users/tonic/OneDrive/Documents/adatszerk/lab4/cmake-build-debug/DivideatImperia.h
+-
+
